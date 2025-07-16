@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "79d7b44d48acf5d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8fe1de3264f06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2492df67119d8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b5f49aab792e8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "06a2b096d9212d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17df1c91f98e6154",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "047af923bec9ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "357873a76bc34e09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "654f6b5ae41518ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62b936e08503787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68ebbd112c90658",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "2e52ffb2d2482324",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "8716082809b4bbe5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "dd71ed4e63b47930",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot-message-square",
+              "title": "ChatGPT"
+            }
+          },
+          {
+            "id": "1281421078e7e306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "3e3f0af696a9abe0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "17df1c91f98e6154",
+  "lastOpenFiles": [
+    "Paper",
+    "01. Inbox/GitHub Token.md",
+    "01. Inbox",
+    "Topic",
+    "Template",
+    "Tags",
+    "Reference",
+    "Media",
+    "Concept",
+    "Test/Mark Down 사용법.md",
+    "무제.md",
+    "Test/Test.md",
+    "Concept/Concept.md",
+    "Reference/Reference.md",
+    "Vault.md",
+    "Template/Template.md",
+    "Media/Media.md",
+    "Tags/Tags.md",
+    "Tags",
+    "Test",
+    "Reference/무제.md",
+    "Topic/Topic.md",
+    "Media/무제.md",
+    "Media/무제 1.md",
+    "Media",
+    "Media.md",
+    "Tags/무제.md",
+    "환영합니다!.md"
+  ]
+}

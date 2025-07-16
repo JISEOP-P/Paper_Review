@@ -1,0 +1,10 @@
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "Media",
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01. Inbox"
+}
