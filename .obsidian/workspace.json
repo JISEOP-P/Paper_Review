@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8fe1de3264f06c",
+        "id": "cd614ed5df97d1e5",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2492df67119d8b",
+            "id": "cbc2f2b8fa9ee8e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "3e3f0af696a9abe0",
+            "id": "01a775e0818f52ec",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,10 +182,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "17df1c91f98e6154",
+  "active": "cbc2f2b8fa9ee8e4",
   "lastOpenFiles": [
-    "Paper",
+    "01. Inbox/Test.md",
     "01. Inbox/GitHub Token.md",
+    "Paper",
     "01. Inbox",
     "Topic",
     "Template",
@@ -208,7 +209,6 @@
     "Topic/Topic.md",
     "Media/무제.md",
     "Media/무제 1.md",
-    "Media",
     "Media.md",
     "Tags/무제.md",
     "환영합니다!.md"
