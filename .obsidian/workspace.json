@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Inbox/01. Inbox.md",
+                "file": "00. Inbox/00. Inbox.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01. Inbox"
+              "title": "00. Inbox"
             }
           }
         ]
@@ -203,19 +203,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6db4093423d05fc2",
+  "active": "17df1c91f98e6154",
   "lastOpenFiles": [
     "Topic/Topic.md",
-    "01. Inbox/01. Inbox.md",
+    "00. Inbox/00. Inbox.md",
     "Concept/Concept.md",
     "Template/Template.md",
     "Tags/Tags.md",
     "Reference/Reference.md",
     "Media/Media.md",
-    "01. Inbox/Test.md",
+    "00. Inbox/Test.md",
     "01. Inbox/GitHub Token.md",
     "Paper",
-    "01. Inbox",
+    "00. Inbox",
     "Topic",
     "Template",
     "Tags",
