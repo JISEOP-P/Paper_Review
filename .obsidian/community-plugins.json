@@ -2,5 +2,8 @@
   "editing-toolbar",
   "obsidian-hover-editor",
   "obsidian-custom-frames",
-  "obsidian-git"
+  "obsidian-git",
+  "sheets",
+  "file-explorer-note-count",
+  "folder-notes"
 ]
